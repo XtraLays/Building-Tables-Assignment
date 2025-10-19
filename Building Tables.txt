@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Building Tables</title>
+  <title>Building Tables Assignment</title>
 </head>
 
     <p>Comparing the costs of guitars made by three companies:</p>
@@ -39,5 +39,6 @@
 	<td>$1400</td>
     </tr>
 </table>
+
 
 </html>
